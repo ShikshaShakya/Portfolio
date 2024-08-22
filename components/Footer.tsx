@@ -15,7 +15,7 @@ const Footer = () => {
 
       <div className="flex flex-col items-center">
         <h1 className="heading lg:max-w-[45vw]">
-          Have a project in mind? Let's make it
+          Have a project in mind? Let&apos;s make it
           <span className="text-purple"> happen.</span>
         </h1>
         <p className="text-white-200 md:mt-10 my-5 text-center">
