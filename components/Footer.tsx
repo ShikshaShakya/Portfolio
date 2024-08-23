@@ -35,7 +35,7 @@ const Footer = () => {
           Copyright © 2024 Shiksha
         </p>
 
-        <div className="flex items-center md:gap-3 gap-6 mt-2">
+        <div className="flex items-center md:gap-3 gap-6 mt-10">
           {socialMedia.map((profile) => (
             <div
               key={profile.id}
