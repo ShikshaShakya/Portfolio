@@ -73,7 +73,7 @@ export const projects = [
     id: 2,
     title: "Knowledge Sharing Platform for NRSC",
     des: "Developed a platform for NRSC to publish blog posts, articles, and research papers, showcasing their learnings and achievements.",
-    img: "/p2.svg",
+    img: "/p2.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
     link: "/projects",
     available: "This app is not live due the to privacy concerns of NRSC.",
