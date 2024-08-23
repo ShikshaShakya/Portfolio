@@ -14,7 +14,14 @@ const config = {
     "./components/**/*.{ts,tsx}",
     "./app/**/*.{ts,tsx}",
     "./src/**/*.{ts,tsx}",
-    "./data/**/*.{ts,tsx}",
+    "./Data/**/*.{ts,tsx}",
+  ],
+  safelist: [
+    "lg:col-span-2",
+    "lg:col-span-3",
+    "lg:row-span-1",
+    "md:col-span-3",
+    "md:row-span-2",
   ],
   prefix: "",
   theme: {
